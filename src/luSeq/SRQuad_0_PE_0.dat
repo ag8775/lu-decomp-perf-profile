@@ -1,0 +1,139 @@
+Total Subroutine call(s) for PE#0= 46 in Quad #0.
+Total call to ??no_name??() subroutine at address 0x9000420a is 1 time(s)
+				 Cumulative cycles 849168852.
+				 Exclusive cycles 1571
+Total call to __main() subroutine at address 0x90000a50 is 1 time(s)
+				 Cumulative cycles 176631.
+				 Exclusive cycles 1090
+Total call to __initrtl() subroutine at address 0x90001092 is 1 time(s)
+				 Cumulative cycles 61071.
+				 Exclusive cycles 1771
+Total call to _semaphore_global_lock() subroutine at address 0x90003532 is 3 time(s)
+				 Cumulative cycles 10072.
+				 Exclusive cycles 2975
+Total call to read_control_word() subroutine at address 0x900035de is 17 time(s)
+				 Cumulative cycles 16674.
+				 Exclusive cycles 16674
+Total call to SemaphoreLock() subroutine at address 0x900034ce is 3 time(s)
+				 Cumulative cycles 3731.
+				 Exclusive cycles 3731
+Total call to _init_heap() subroutine at address 0x90000ec0 is 1 time(s)
+				 Cumulative cycles 1366.
+				 Exclusive cycles 1366
+Total call to _init_cache() subroutine at address 0x90000f00 is 1 time(s)
+				 Cumulative cycles 50613.
+				 Exclusive cycles 5534
+Total call to _write_control_word() subroutine at address 0x90003596 is 10 time(s)
+				 Cumulative cycles 14630.
+				 Exclusive cycles 3020
+Total call to write_control_word() subroutine at address 0x900035a6 is 10 time(s)
+				 Cumulative cycles 11610.
+				 Exclusive cycles 11610
+Total call to _get_chip_type() subroutine at address 0x90002f26 is 6 time(s)
+				 Cumulative cycles 22452.
+				 Exclusive cycles 2924
+Total call to get_chip_type() subroutine at address 0x90002f34 is 6 time(s)
+				 Cumulative cycles 19528.
+				 Exclusive cycles 7034
+Total call to get_base_address() subroutine at address 0x90003616 is 7 time(s)
+				 Cumulative cycles 14543.
+				 Exclusive cycles 8089
+Total call to _quad_get_num_r_quads() subroutine at address 0x90002f60 is 2 time(s)
+				 Cumulative cycles 7997.
+				 Exclusive cycles 1308
+Total call to quad_get_num_r_quads() subroutine at address 0x90002f6e is 2 time(s)
+				 Cumulative cycles 6689.
+				 Exclusive cycles 4640
+Total call to _semaphore_global_unlock() subroutine at address 0x90003564 is 3 time(s)
+				 Cumulative cycles 7291.
+				 Exclusive cycles 2575
+Total call to SemaphoreUnLock() subroutine at address 0x90003524 is 3 time(s)
+				 Cumulative cycles 1550.
+				 Exclusive cycles 1550
+Total call to __insp_initialize() subroutine at address 0x90002d58 is 1 time(s)
+				 Cumulative cycles 114470.
+				 Exclusive cycles 6776
+Total call to _semaphore_global_alloc() subroutine at address 0x900033d8 is 2 time(s)
+				 Cumulative cycles 14643.
+				 Exclusive cycles 2730
+Total call to GlobalSemaphoreAlloc() subroutine at address 0x900032e0 is 2 time(s)
+				 Cumulative cycles 10069.
+				 Exclusive cycles 8225
+Total call to __smod4_cra8400() subroutine at address 0x90001168 is 19 time(s)
+				 Cumulative cycles 65267.
+				 Exclusive cycles 34334
+Total call to __sdiv4() subroutine at address 0x90001370 is 22 time(s)
+				 Cumulative cycles 39585.
+				 Exclusive cycles 7376
+Total call to __udiv4() subroutine at address 0x9000128a is 22 time(s)
+				 Cumulative cycles 32209.
+				 Exclusive cycles 32209
+Total call to _fopen() subroutine at address 0x90001b1c is 3 time(s)
+				 Cumulative cycles 37073.
+				 Exclusive cycles 4943
+Total call to ??no_name??() subroutine at address 0x900019b8 is 3 time(s)
+				 Cumulative cycles 7961.
+				 Exclusive cycles 7961
+Total call to __inspector_send_message() subroutine at address 0x90001428 is 7 time(s)
+				 Cumulative cycles 50945.
+				 Exclusive cycles 26927
+Total call to _semaphore_lock() subroutine at address 0x90003500 is 10 time(s)
+				 Cumulative cycles 1250.
+				 Exclusive cycles 1250
+Total call to ??no_name??() subroutine at address 0x900013e0 is 7 time(s)
+				 Cumulative cycles 9787.
+				 Exclusive cycles 9787
+Total call to __pe_getsreg() subroutine at address 0x90000d9c is 7 time(s)
+				 Cumulative cycles 2427.
+				 Exclusive cycles 2427
+Total call to __pe_putreg() subroutine at address 0x90000cfc is 7 time(s)
+				 Cumulative cycles 2448.
+				 Exclusive cycles 2448
+Total call to __pe_delay() subroutine at address 0x90001136 is 13 time(s)
+				 Cumulative cycles 2228.
+				 Exclusive cycles 2228
+Total call to __pe_getreg() subroutine at address 0x90000c58 is 20 time(s)
+				 Cumulative cycles 6060.
+				 Exclusive cycles 6060
+Total call to _semaphore_unlock() subroutine at address 0x9000352e is 10 time(s)
+				 Cumulative cycles 190.
+				 Exclusive cycles 190
+Total call to _initialize() subroutine at address 0x90004014 is 1 time(s)
+				 Cumulative cycles 5038199.
+				 Exclusive cycles 4919775
+Total call to _printf() subroutine at address 0x900029d8 is 3 time(s)
+				 Cumulative cycles 187204.
+				 Exclusive cycles 5762
+Total call to ??no_name??() subroutine at address 0x9000244e is 3 time(s)
+				 Cumulative cycles 181442.
+				 Exclusive cycles 39680
+Total call to ??no_name??() subroutine at address 0x90001c36 is 4 time(s)
+				 Cumulative cycles 103052.
+				 Exclusive cycles 45217
+Total call to ??no_name??() subroutine at address 0x900013b8 is 5 time(s)
+				 Cumulative cycles 21643.
+				 Exclusive cycles 21643
+Total call to ??no_name??() subroutine at address 0x90002368 is 1 time(s)
+				 Cumulative cycles 2407.
+				 Exclusive cycles 2407
+Total call to ??no_name??() subroutine at address 0x90001e74 is 1 time(s)
+				 Cumulative cycles 61493.
+				 Exclusive cycles 6313
+Total call to __sdiv4_cra8400() subroutine at address 0x90001140 is 3 time(s)
+				 Cumulative cycles 14201.
+				 Exclusive cycles 5549
+Total call to ??no_name??() subroutine at address 0x90001b6c is 1 time(s)
+				 Cumulative cycles 10223.
+				 Exclusive cycles 10223
+Total call to _calculate() subroutine at address 0x90004094 is 1 time(s)
+				 Cumulative cycles 843917872.
+				 Exclusive cycles 829855994
+Total call to __fdiv4_cra8400() subroutine at address 0x90000ac8 is 8128 time(s)
+				 Cumulative cycles 14021600.
+				 Exclusive cycles 12753232
+Total call to ??no_name??() subroutine at address 0x90000a8a is 8128 time(s)
+				 Cumulative cycles 1268368.
+				 Exclusive cycles 1268368
+Total call to __finalizertl() subroutine at address 0x900010ea is 1 time(s)
+				 Cumulative cycles 6077.
+				 Exclusive cycles 1356

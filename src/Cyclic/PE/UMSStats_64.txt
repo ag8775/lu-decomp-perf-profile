@@ -1,0 +1,136 @@
+Cyclic 64 PE
+		                UMS STATISTICS
+			  TIME <2001/11/14>::<3/41/41>
+
+QUAD0 ComputeQuad
+ Processor     Active        DLY        WFI  Read Wait    I-Cache    D-Cache
+               Cycles     Cycles     Cycles     Cycles     Misses     Misses
+PE0         198092271    1468350          0  139834450        309          0
+PE1         198092271   34368945          0  115968850         84          0
+PE2         198092271   34367580          0  115934600         73          0
+PE3         198092271   34381490          0  115887200         72          0
+ Processor     Active      Delay     Stalls    D-Cache
+               Cycles     Cycles                Misses
+DSE0                0          0          0          0
+DSE1                0          0          0          0
+DSE2                0          0          0          0
+DSE3                0          0          0          0
+DSE4                0          0          0          0
+DSE5                0          0          0          0
+DSE6                0          0          0          0
+DSE7                0          0          0          0
+
+QUAD1 IOQuad
+ Processor     Active        DLY        WFI  Read Wait    I-Cache    D-Cache
+               Cycles     Cycles     Cycles     Cycles     Misses     Misses
+PE0                 0          0          0          0          0          0
+PE1                 0          0          0          0          0          0
+
+          Local Bus STATISTICS
+
+<QUAD0 ComputeQuad>
+ Processor              Local Bus - Read          Local Bus - Write
+                        Trans.      Bytes         Trans.      Bytes
+PE0                   1619663    3658773          663116    2651639
+PE1                   1237625    2604405           75651     302388
+PE2                   1239651    2611433           76482     305712
+PE3                   1242507    2620025           77374     309280
+DSE0                        0          0               0          0
+DSE1                        0          0               0          0
+DSE2                        0          0               0          0
+DSE3                        0          0               0          0
+DSE4                        0          0               0          0
+DSE5                        0          0               0          0
+DSE6                        0          0               0          0
+DSE7                        0          0               0          0
+MTE0-0                      0          0               0          0
+MTE0-1                      0          0               0          0
+MTE0-2                      0          0               0          0
+MTE0-3                      0          0               0          0
+External                    0          0               0          0
+                       ------------------         ------------------
+Totals                5339446   11494636          892623    3569019
+Total Simulation Time: 198092289 cycles
+Local Bus utilization: 3.146%
+
+<QUAD1 IOQuad>
+ Processor              Local Bus - Read          Local Bus - Write
+                        Trans.      Bytes         Trans.      Bytes
+PE0                         0          0               0          0
+PE1                         0          0               0          0
+MTE0-0                      0          0               0          0
+MTE0-1                      0          0               0          0
+MTE0-2                      0          0               0          0
+MTE0-3                      0          0               0          0
+MTE1-0                      0          0               0          0
+MTE1-1                      0          0               0          0
+MTE1-2                      0          0               0          0
+MTE1-3                      0          0               0          0
+MTE2-0                      0          0               0          0
+MTE2-1                      0          0               0          0
+MTE2-2                      0          0               0          0
+MTE2-3                      0          0               0          0
+MTE3-0                      0          0               0          0
+MTE3-1                      0          0               0          0
+MTE3-2                      0          0               0          0
+MTE3-3                      0          0               0          0
+External                    0          0               0          0
+                       ------------------         ------------------
+Totals                      0          0               0          0
+Total Simulation Time: 198092289 cycles
+Local Bus utilization: 0.000%
+
+               DRAM STATISTICS
+
+<QUAD0 ComputeQuad>
+ Processor                         Dram-Read                      Dram-Write   
+                          Data      Bytes     Page       Data      Bytes     Page
+                        Trans.              Misses     Trans.              Misses
+                        -------------------------      -------------------------
+PE0                    697715    2797517   213754     490341    1960583   126005
+PE1                    577739    2312861    80925      51076     204088     4795
+PE2                    577410    2311237   102042      51449     205580    30008
+PE3                    576857    2308997    70964      51837     207132    30130
+DSE0                        0          0        0          0          0        0
+DSE1                        0          0        0          0          0        0
+DSE2                        0          0        0          0          0        0
+DSE3                        0          0        0          0          0        0
+DSE4                        0          0        0          0          0        0
+DSE5                        0          0        0          0          0        0
+DSE6                        0          0        0          0          0        0
+DSE7                        0          0        0          0          0        0
+MTE0-0                      0          0        0          0          0        0
+MTE0-1                      0          0        0          0          0        0
+MTE0-2                      0          0        0          0          0        0
+MTE0-3                      0          0        0          0          0        0
+
+<QUAD1 IOQuad>
+ Processor                         Dram-Read                      Dram-Write   
+                          Data      Bytes     Page       Data      Bytes     Page
+                        Trans.              Misses     Trans.              Misses
+                        -------------------------      -------------------------
+PE0                         0          0        0          0          0        0
+PE1                         0          0        0          0          0        0
+MTE0-0                      0          0        0          0          0        0
+MTE0-1                      0          0        0          0          0        0
+MTE0-2                      0          0        0          0          0        0
+MTE0-3                      0          0        0          0          0        0
+MTE1-0                      0          0        0          0          0        0
+MTE1-1                      0          0        0          0          0        0
+MTE1-2                      0          0        0          0          0        0
+MTE1-3                      0          0        0          0          0        0
+MTE2-0                      0          0        0          0          0        0
+MTE2-1                      0          0        0          0          0        0
+MTE2-2                      0          0        0          0          0        0
+MTE2-3                      0          0        0          0          0        0
+MTE3-0                      0          0        0          0          0        0
+MTE3-1                      0          0        0          0          0        0
+MTE3-2                      0          0        0          0          0        0
+MTE3-3                      0          0        0          0          0        0
+                         ------------------------       ------------------------
+Totals                2429721    9730612   467685     644703    2577383   190938
+DRAM read delay: 200 UMS cycles
+DRAM banks: 8
+DRAM line size: 2048 bytes
+Total Simulation Time 198092289 cycles
+Dram utilization: 0.072*(UMS_SPEED)/(DRAM_SPEED)*100%
